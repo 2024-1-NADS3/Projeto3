@@ -8,8 +8,7 @@
 # Conexão Mental
 
 ## Conexão Mental
-## Integrantes: Pedro Henrique Araujo Barros <P>
-Pedro Henrique Moreira Sebastião
+## Integrantes: Pedro Henrique Araujo Barros <P> Pedro Henrique Moreira Sebastião
 
 ## Professores Orientadores: Victor Bruno
 
