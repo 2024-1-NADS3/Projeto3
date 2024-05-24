@@ -20,7 +20,7 @@
 </p>
 
 <h1> OBJETIVO GERAL </h1>
-  
+  Nosso objetivo é proporcionar apoio significativo para indivíduos que buscam um desenvolvimento emocional mais robusto. Queremos que encontrem ajuda efetiva através do nosso serviço, capacitando-os a atingir seus objetivos emocionais.
 <h1> OBJETIVOS ESPECÍFICOS </h1>
  
 
