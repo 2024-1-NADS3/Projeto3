@@ -15,7 +15,8 @@
 ## Descrição
 Conexão Mental é um aplicativo dedicado a apoiar o bem-estar emocional dos usuários. Sua principal funcionalidade é fornecer um calendário de emoções e um diário pessoal, permitindo que os usuários registrem e monitorem suas emoções ao longo do tempo. Além disso, o aplicativo pode ser utilizado como uma ferramenta complementar para auxiliar em terapias psicológicas, oferecendo insights valiosos para profissionais de saúde mental. A interface intuitiva e amigável facilita o registro regular de emoções, promovendo a autorreflexão e o acompanhamento do progresso emocional ao longo do tempo.
 <p align="center">
-<img src="" alt="Conexão Mental" border="0">
+<img sr![oip](https://github.com/2024-1-NADS3/Projeto3/assets/132580735/697e1677-008f-4c34-a627-e1990e59c854)
+c="" alt="Conexão Mental" border="0">
  
 </p>
 
