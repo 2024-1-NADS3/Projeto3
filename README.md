@@ -10,7 +10,7 @@
 ## Conexão Mental
 ## Integrantes: Pedro Henrique
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>
+## Professores Orientadores: Victor Bruno
 
 ## Descrição
 
